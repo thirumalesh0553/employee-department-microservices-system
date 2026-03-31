@@ -19,6 +19,7 @@ This project is a microservices-based application built using Spring Boot and Sp
 - API Gateway
 - Circuit Breaker (Resilience4j)
 - Spring Boot Actuator
+- Postman (for API testing)
 - Maven
 - Git & GitHub
 
